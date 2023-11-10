@@ -1,0 +1,15 @@
+<suite name="testsuite1" verbose="1">
+
+<test name="TestCycle1">
+<classes>
+<class name="courseEnd.Assignment001Demo">
+  <methods>
+    <include name="assignment001Post"></include>
+     <include name="assignment001Get"></include>
+      <include name="assignment001Delete"></include> 
+  </methods>
+</class>
+</classes>
+</test>
+
+</suite>
